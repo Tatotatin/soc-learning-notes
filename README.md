@@ -12,3 +12,6 @@ This repository documents my learning journey in cybersecurity, with a focus on 
 
 ## Background
 I am currently learning cybersecurity through hands-on labs (TryHackMe) and independent research.
+
+## Status
+This repository is a work in progress and will be continuously updated as I advance in my SOC and Blue Team learning path.
